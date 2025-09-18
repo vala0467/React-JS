@@ -1,0 +1,16 @@
+
+.movieSlider {
+    border: 2px solid green ;
+    .abc {
+        color: rgb(249, 5, 5);
+    }
+    color: aliceblue;
+
+
+    .sample {
+        color: blue;
+        font-size: 20px;
+    }
+
+}
+

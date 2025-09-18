@@ -1,0 +1,27 @@
+.moreReasons {
+    margin-top: 20px;
+    border-radius: 40px;
+    display: flex;
+    
+    .card-title {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 22px;
+        padding: 10px;
+    }
+    .card-text {
+        padding: 10px;
+    }
+}
+
+
+
+.moreReasons > div {
+    margin: 10px;
+    background-image: linear-gradient(
+                    149deg,
+                    #192247 0%,
+                    #210e17 99.08%
+                );
+    color: #fff;
+}

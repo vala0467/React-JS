@@ -1,0 +1,22 @@
+.page-content {
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.pageContentText {
+    font-size: 3.5rem;
+    font-weight: bold;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.tagLine {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+.emailInput{
+    margin-right: 10px ;
+    width: 400px;
+}

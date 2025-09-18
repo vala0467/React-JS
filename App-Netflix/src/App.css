@@ -1,0 +1,10 @@
+
+body {
+  
+  padding: 20px;
+}
+.pageApp {
+  position: absolute;
+  top: 25px;
+  width: 100%;
+}
