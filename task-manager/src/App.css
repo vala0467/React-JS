@@ -18,6 +18,8 @@ body {
   padding: 20px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+ box-shadow: 10px 15px 10px 15px rgb(181, 225, 181);
+
 
   /* optional smooth animation */
   transition: transform 0.3s ease-in-out;
