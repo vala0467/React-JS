@@ -1,0 +1,20 @@
+.parent,
+.child,
+.grandChild {
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 30px;
+}
+
+.parent {
+    background-color: yellow;
+}
+
+.grandChild {
+    background-color: blue;
+}
+
+.child {
+    background-color: pink;
+}

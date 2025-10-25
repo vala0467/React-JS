@@ -4,7 +4,7 @@ import {ObjectIterator} from './components/objIterator/objectIterator';
 import {UseStateHooks} from './components/hooks/useStatehooks';
 import {UseStateHookDemo} from './components/hooks/useStateHook_2';
 // import {UseStateHookToUpdateObject} from './components/hooks/useStateHookToUpdateObj';
-// import {AxiosDemo} from './components/axiosDemo/axisosComp';
+ //import {AxiosDemo} from './components/axiosDemo/axisosComp/';
 // import {StyleAndClassBinding} from './components/styleAndClassBinding/styleBindingAndClassBinding';
 // import {DateObject} from './components/dateObject/dateObject';
 // import {EventsHandling} from './components/eventHandling/eventsHandling';
@@ -29,7 +29,7 @@ function App() {
       {/* <ConditionsIterator></ConditionsIterator> */}
       {/* <ObjectIterator></ObjectIterator> */}
       {/* <UseStateHooks></UseStateHooks> */}
-      <UseStateHookDemo></UseStateHookDemo>
+      {/* <UseStateHookDemo></UseStateHookDemo> */}
       {/* <UseStateHookToUpdateObject></UseStateHookToUpdateObject> */}
       {/* <AxiosDemo></AxiosDemo> */}
       {/* <StyleAndClassBinding></StyleAndClassBinding> */}
@@ -56,7 +56,7 @@ function App() {
         {/* <ContextMemoryDemo></ContextMemoryDemo>       */}
         {/* <DemoUseReducer></DemoUseReducer> */}
         {/* <DemoUseMemoAndUseCallback></DemoUseMemoAndUseCallback> */}
-        {/* <AccountSignupForm></AccountSignupForm> */}
+        <AccountSignupForm></AccountSignupForm>
       </>
   )
 }

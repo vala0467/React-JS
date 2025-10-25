@@ -1,0 +1,12 @@
+.childComp {
+    border: 2px solid;
+    background-color: yellow;
+    margin: 30px;
+    padding: 30px;
+}
+
+.parentComp {
+    background-color: pink;
+    margin: 30px;
+    padding: 30px;
+}

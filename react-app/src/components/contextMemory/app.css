@@ -1,0 +1,13 @@
+h3 {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    color: green;
+}
+
+ul {
+    margin: 10px;
+    padding: 20px;
+}
